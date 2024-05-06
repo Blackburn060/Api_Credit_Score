@@ -1,0 +1,160 @@
+# Compiled DLLs
+*.dll
+
+# Compiled files
+bin/
+obj/
+
+# Publish directory
+publish/
+
+# Compiled PDBs
+*.pdb
+
+# Compiled executable files
+*.exe
+*.exe.config
+*.exe.config.backup
+
+# Database files
+*.mdf
+*.ldf
+
+# Microsoft Visual Studio user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# DotNet user-specific files
+*.swp
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/repositories.config
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Cake
+tools/**
+
+# Cake build script
+*.cake
+
+# VsCode files
+.vscode
+
+# MSBuild binary log
+*.binlog
+
+# Rider files
+.idea/
+
+# User Secrets
+**/secrets.json
+
+# Rider files
+.idea/
+.idea_modules/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Cake
+tools/**
+
+# Cake build script
+*.cake
+
+# Fody
+FodyWeavers.xsd
+FodyWeavers.xml
+
+# Paket
+.paket/paket.exe
+paket-files/
+
+# StyleCop
+StyleCopReport.xml
+
+# Project Management
+.vs/
+.vscode/
+Releases/
+test_results/
+.vs/
+
+# dotCover
+.coverage
+.coveragexml
+*.dotCover
+
+# ReSharper
+_ReSharper.Caches
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# DotNet user-specific files
+*.swp
+.sln.docstates
+
+# Local History
+localhistory/
+
+# User preferences for Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build results
+[Oo]bj/
+[Bb]in/
+[Ll]og/
+[Tt]est[Rr]esults/
+packages/
+
+# Web essentials folder
+WebEssentials/
+
+# IIS logs
+IISExpress/
