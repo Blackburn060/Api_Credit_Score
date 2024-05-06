@@ -11,7 +11,7 @@ namespace VehicleInsuranceAPI.Services
 
         public CreditScoreService()
         {
-            _records = LoadRecordsFromCsv("Car_Insurance_Claim.csv");
+            _records = LoadRecordsFromCsv("./wwwroot/Car_Insurance_Claim.csv");
         }
 
         private List<InsuranceRecord> LoadRecordsFromCsv(string filePath)
